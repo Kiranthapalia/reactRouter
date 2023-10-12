@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import Home from './Home.jsx'
-import About from './About.jsx'
-import Contact from './Contact.jsx'
-import Error from './Error.jsx'
+import Home from './Components/Home.jsx'
+import About from './Components/About.jsx'
+import Contact from './Components/Contact.jsx'
+import Error from './Components/Error.jsx'
 import './index.css'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
